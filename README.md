@@ -1,6 +1,4 @@
-# WAS-Overview
-
-##Streamlined Attendance Management System Using Spring Boot
+# Streamlined Attendance Management System Using Spring Boot
 Addressed the challenge of manual attendance tracking by offering a platform for the digital recording and management of attendance records
 Enhancing accuracy and efficiency through automated tracking and reporting.
 Key features: Automated attendance tracking, real-time retrieval, average attendance generation, and Excel data import.
