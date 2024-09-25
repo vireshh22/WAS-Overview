@@ -1,5 +1,5 @@
 # WAS-Overview
-
+To protect the integrity of this project and prevent unauthorized usage or code theft, the full source code is not publicly available. Instead, I am sharing only the outputs. If you have any questions feel free to contact me directly.
 
 # ADMIN SIDE
 ![admin_dashboard](https://github.com/user-attachments/assets/7994d6be-299c-4ba9-ac76-9639827c3318)
