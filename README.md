@@ -1,4 +1,10 @@
 # WAS-Overview
+
+Streamlined Attendance Management System| Spring Boot, Thymeleaf, Tailwind CSS, and MYSQL
+•	Addressed the challenge of manual attendance tracking by offering a platform for the digital recording and management of attendance records
+•	Enhancing accuracy and efficiency through automated tracking and reporting.
+•	Key features: Automated attendance tracking, real-time retrieval, average attendance generation, and Excel data import.
+
 To protect the integrity of this project and prevent unauthorized usage or code theft, the full source code is not publicly available. Instead, I am sharing only the outputs. If you have any questions feel free to contact me directly.
 
 # ADMIN SIDE
